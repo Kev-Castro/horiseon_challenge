@@ -1,6 +1,8 @@
 
 # Horiseon Challenge
 
+---
+
 ## [Link to Website](https://kev-castro.github.io/horiseon_challenge/#search-engine-optimization)
 
 ## Description
