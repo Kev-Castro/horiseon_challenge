@@ -26,7 +26,11 @@
 - Once I have made my fixes and changes, I can push my changes to GitHub to populate online so it can be submitted for changes. 
 
 ## Usage
+
 - For instructions on usage of site, refer to Features tab down below. *click on Features in Table of Contents*
+
+- ***Below is an image of the finished site.***
+
 ![Alt text](<assets/images/Screenshot 2023-08-31 153129.png>)
 
 ## License
