@@ -4,31 +4,29 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - Horiseon helps with understanding SEO, Online Reputation Management, and Social Media Marketing 
 
 - This site was built to help me understand how to cosolidate the CSS, use proper semantic elements, and fix a link.
+
 - This challenge helped me understand semantic elements, more about css and also how to read code to fix links. 
 
 ## Table of Contents
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+- [Features](#features)
 
 ## Installation
 
-I had to make a repo, clone the starter code and copy it into my repo to fix and make changes to the code. 
+- I had to make a repo, clone the starter code and copy it into my repo to fix and make changes to the code. 
 
-After getting a copy of start code to work on my repo that is connected to my GitHub, I can make my changes and fixes.
+- After getting a copy of start code to work on my repo that is connected to my GitHub, I can make my changes and fixes.
 
-Once I have made my fixes and changes, I can push my changes to GitHub to populate online so it can be submitted for changes. 
+- Once I have made my fixes and changes, I can push my changes to GitHub to populate online so it can be submitted for changes. 
 
 ## Usage
-
+- For instructions on usage of site, refer to Features tab down below. *click on Features in Table of Contents*
 ![Alt text](<assets/images/Screenshot 2023-08-31 153129.png>)
 
 ## License
