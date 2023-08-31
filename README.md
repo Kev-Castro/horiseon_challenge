@@ -1,6 +1,6 @@
-# <Horiseon Website>
+# <Horiseon>
 
-[Link to Website](https://kev-castro.github.io/horiseon_challenge/#search-engine-optimization)
+## [Link to Website](https://kev-castro.github.io/horiseon_challenge/#search-engine-optimization)
 
 ## Description
 
