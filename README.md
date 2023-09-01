@@ -26,7 +26,7 @@
 
 - After getting a copy of start code to work on my repo that is connected to my GitHub, I can make my changes and fixes.
 
-- Once I have made my fixes and changes, I can push my changes to GitHub to populate online so it can be submitted for changes. 
+- Once I have made my fixes and changes, I can push my changes to GitHub to populate online so it can be submitted for grading. 
 
 ## Usage
 
